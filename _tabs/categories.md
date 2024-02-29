@@ -21,4 +21,15 @@ markdown_content: |
   -  #### **R**
      - R语言入门：[菜鸟教程](https://www.runoob.com/r/r-tutorial.html)
 ---
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- head内容 -->
+  </head>
+  <body>
+    <!-- 其他内容 -->
+    {{ content | markdownify }}
+    <!-- 其他内容 -->
+  </body>
+</html>
 
