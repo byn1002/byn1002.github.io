@@ -2,7 +2,7 @@
 layout: categories
 icon: fas fa-stream
 order: 1
----
+markdown_content: |
 ## **课程资料**
 
 - **Real Analysis:**
@@ -20,3 +20,5 @@ order: 1
    - Python入门：[菜鸟教程](https://www.runoob.com/python3/python3-data-type.html)
 -  #### **R**
    - R语言入门：[菜鸟教程](https://www.runoob.com/r/r-tutorial.html)
+---
+
