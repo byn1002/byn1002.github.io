@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My First Post
+title: Stochastic Processes
 ---
 
 # Stochastic Processes
