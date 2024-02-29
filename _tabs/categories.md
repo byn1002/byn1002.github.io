@@ -8,8 +8,8 @@ order: 1
   - UCLA Terence Tao: [MATH 245A : Real Analysis](https://www.math.ucla.edu/~tao/245a.1.10f/)
 - **Applied Stochastic Processes:**
   - umich: [Applied Probability and Stochastic Modeling](https://ionides.github.io/620/)
-  - Columbia: [Homework for IEOR 6711](http://www.columbia.edu/~ww2040/6711F13/homework6711.html)
-  - 念山居：[stochastic-processes](http://blog.charmpeach.com/category/stochastic-processes/)
+  - Columbia: [Homework for IEOR 6711](//www.columbia.edu/~ww2040/6711F13/homework6711.html)
+  - 念山居：[stochastic-processes](//blog.charmpeach.com/category/stochastic-processes/)
 
 
 
