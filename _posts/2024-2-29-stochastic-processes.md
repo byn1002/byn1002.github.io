@@ -10,4 +10,4 @@ title: Stochastic Processes
     - columbia: [Homework for IEOR 6711](https://www.columbia.edu/~ww2040/6711F13/homework6711.html)
     - 念山居：[stochastic-processes](https://blog.charmpeach.com/category/stochastic-processes/)
 - ### **往年卷**
-    - <iframe src="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/19SPmid.pdf" width="100%" height="600px"></iframe>
+    - [19SPmid](https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/19SPmid.pdf){: .btn .btn-green }
