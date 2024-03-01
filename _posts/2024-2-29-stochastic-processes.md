@@ -13,3 +13,4 @@ categories: [Stochastic Processes]
 - ### **往年卷**
     - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Stochastic_Processes/19SPmid.pdf" target="_blank">19SPmid.pdf</a>
 - ### **PPT**
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Stochastic_Processes/SP-PPT-1.pdf" target="_blank">SP-PPT-1</a>
