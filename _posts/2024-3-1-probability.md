@@ -4,7 +4,21 @@ title: Probability
 categories: [Materials for Major Courses, Previous Courses]
 ---
 ---
-# **Probability**
+# Probability
+- ### 数院概率论习题课讲义
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/概率论习题课讲义" target="_blank">概率论习题课讲义</a>
+- ### PPT
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/PPT/Prob-PPT-1" target="_blank">Prob-PPT-1</a>
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/PPT/Prob-PPT-2" target="_blank">Prob-PPT-2</a>
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/PPT/Prob-PPT-3" target="_blank">Prob-PPT-3</a>
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/PPT/Prob-PPT-4" target="_blank">Prob-PPT-4</a>
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/PPT/Prob-PPT-51" target="_blank">Prob-PPT-51</a>
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/PPT/Prob-PPT-52" target="_blank">Prob-PPT-52</a>
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/PPT/Prob-PPT-6-1" target="_blank">Prob-PPT-6-1</a>
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/PPT/Prob-PPT-6-2" target="_blank">Prob-PPT-6-2</a>
+
+
+
 - ### 往年卷
     - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/往年卷/23prob mid.pdf" target="_blank">23prob mid.pdf</a>
     - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/往年卷/23probfinal.zip" target="_blank">23probfinal.zip</a>
