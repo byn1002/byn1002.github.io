@@ -6,9 +6,9 @@ title: 大雾实验：模板，报告
 此帖用于记录持续了两学期，即一年之久的大雾食盐的各类文档。
 - ### **大雾文档**
     - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/college_physics_experiments/template.zip" target="_blank">template 1</a>
-    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/college_physics_experiments/绪论1.pdf" target="_blank">template 1</a>
-    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/college_physics_experiments/绪论2.pdf" target="_blank">template 1</a>
-    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/college_physics_experiments/不确定度测试样题及解答.pdf" target="_blank">template 1</a>
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/college_physics_experiments/绪论1.pdf" target="_blank">绪论 1</a>
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/college_physics_experiments/绪论2.pdf" target="_blank">绪论 2</a>
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/college_physics_experiments/不确定度测试样题及解答.pdf" target="_blank">不确定度测试样题及解答</a>
 
 - ### **二级大雾**
     - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/college_physics_experiments/Comprehensive_Experimentation_B/M_Light.pdf" target="_blank">单色仪定标与光谱测量</a>
