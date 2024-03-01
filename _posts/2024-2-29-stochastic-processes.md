@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stochastic Processes
-categories: [Stochastic Processes]
+categories: [Materials for Major Courses]
 ---
 
 # Stochastic Processes
