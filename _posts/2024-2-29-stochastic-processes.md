@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stochastic Processes
+categories: [Stochastic Processes]
 ---
 
 # Stochastic Processes
