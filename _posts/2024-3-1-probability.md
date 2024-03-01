@@ -1,7 +1,8 @@
 ---
 layout: default
-categories: [Materials of Major Courses, Previous Courses]
-
+title: Probability
+categories: [Materials for Major Courses, Previous Courses]
+---
 ---
 # **Probability**
 - ### 往年卷
