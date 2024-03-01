@@ -10,3 +10,4 @@ title: Useful Links
 神秘链接打开方式：使用开发者工具进行本地覆写，将 folder for overrides 设为本仓库目录下的 overrides。
   - 往期课程支持：在直录播-录播课程的搜索框输入"搜索内容?past=学期数", 其中学期数为0至7的整数(0表示当前学期, 包含夏季学期)。
   - [folder for overrides](https://github.com/TMYTiMidlY/capture-courses)
+- [Mathematics Stack Exchange](https://math.stackexchange.com/)
