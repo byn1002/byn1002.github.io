@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Probability
-categories: [Materials for Major Courses, Previous Courses]
+categories: [Materials for Major Courses]
 ---
 ---
 # Probability
