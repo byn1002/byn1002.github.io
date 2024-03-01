@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 大雾实验：模板，报告
+categories: [Previous Courses]
 ---
 # 大雾实验
 此帖用于记录持续了两学期，即一年之久的大雾食盐的各类文档。
