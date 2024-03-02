@@ -9,8 +9,8 @@ order: 4
 
     + ### Hobbies:
         - I'm broadly interested in various sports, including Football, Basketball, badminton and swimming. I'm currently a member of the football team in SGY;
-        - Debate(inactive);
-        - Flute player at the school Chinese orchestra(also inactive);  
+        - Debate;
+        - Flute player at the school Chinese orchestra;  
         
     + ### Skills:
         - #### Programming Languages: 
