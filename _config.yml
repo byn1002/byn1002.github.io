@@ -204,9 +204,6 @@ jekyll-archives:
 
 html_proofer:
   ignore:
-    - url: http://home.ustc.edu.cn/~matchbox/real.html
-html_proofer:
-  ignore:
     - url: http://*
 
 
