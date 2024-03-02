@@ -19,6 +19,6 @@ order: 4
         - #### Software: 
             - Origin, Mathematica.
 +  ## Get In Touch:
-  - **QQ**: 1374139623
-  - **Wechat**: 15189995102
-  - **Email**: byn1002@mail.ustc.edu.cn
+    - **QQ**: 1374139623
+    - **Wechat**: 15189995102
+    - **Email**: byn1002@mail.ustc.edu.cn
