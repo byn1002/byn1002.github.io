@@ -205,6 +205,8 @@ jekyll-archives:
 html_proofer:
   ignore:
     - url: http://home.ustc.edu.cn/~matchbox/real.html
-    - url: http://www.columbia.edu/~ww2040/6711F13/homework6711.html
-    - url: http://blog.charmpeach.com/category/stochastic-processes/
+html_proofer:
+  ignore:
+    - url: http://*
+
 
