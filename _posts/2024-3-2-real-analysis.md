@@ -1,6 +1,6 @@
 ---
 layout: default
-categories: Core Courses
+categories: [Core Courses]
 title: Real Analysis
 ---
 # Real Analysis
