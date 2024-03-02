@@ -14,7 +14,7 @@ order: 4
         
     + ### Skills:
         - #### Programming Languages: 
-            - C, Python, R, LaTex, Markdown;  
+            - C, Python, R, LaTeX, Markdown;  
             \*This website is generated from Ruby, so I know a little about Ruby.
         - #### Software: 
             - Origin, Mathematica.
