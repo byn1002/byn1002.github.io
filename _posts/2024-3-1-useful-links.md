@@ -16,7 +16,9 @@ title: Useful Links
 
 - [知乎](https://www.zhihu.com/)  
 
-- [CSDN](https://www.csdn.net/)  
+- [CSDN](https://www.csdn.net/)
+
+- [管院教学云平台](https://oc.ustc.edu.cn)
 
 - [Longman](https://www.ldoceonline.com/)  
 
