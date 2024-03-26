@@ -13,3 +13,4 @@ categories: Codes
         - R入门：[runoob for R](https://www.runoob.com/r/r-tutorial.html)
         - [管院教学云平台](https://oc.ustc.edu.cn)
         - [Rmarkdown指南](https://bookdown.org/qiushi/rmarkdown-guide/)
+        - [PKU R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
