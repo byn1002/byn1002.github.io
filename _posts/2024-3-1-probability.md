@@ -32,4 +32,5 @@ categories: [Core Courses]
     - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/往年卷/2017胡老师概率论期中考试试卷.pdf" target="_blank">2017胡老师概率论期中考试试卷.pdf</a>
 
 - ### My Review Notes
-    - [Prob](assets/files/Probability/Prob.pdf){:target="_blank" rel="noopener noreferrer" download=""}
+    - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/Prob.pdf" target="_blank">Prob</a>
+
