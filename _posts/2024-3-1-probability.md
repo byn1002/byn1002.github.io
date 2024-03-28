@@ -34,5 +34,6 @@ categories: [Core Courses]
 - ### My Review Notes
     - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/Prob.pdf" target="_blank">Prob</a>
     - [Prob](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/Prob.pdf)
+    - [Prob](chrome://pdf-viewer/https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/Prob.pdf)
 
 
