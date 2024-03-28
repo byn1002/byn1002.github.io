@@ -30,3 +30,6 @@ categories: [Core Courses]
     - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/往年卷/冯班2018Mid.pdf" target="_blank">冯班2018Mid.pdf</a>
     - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/往年卷/冯班2018Mid参考答案.pdf" target="_blank">冯班2018Mid参考答案.pdf</a>
     - <a href="https://raw.githubusercontent.com/byn1002/byn1002.github.io/master/assets/files/Probability/往年卷/2017胡老师概率论期中考试试卷.pdf" target="_blank">2017胡老师概率论期中考试试卷.pdf</a>
+
+- ### My Review Notes
+    - [Prob](assets/files/Probability/Prob.pdf){:target="_blank" rel="noopener noreferrer" download=""}
