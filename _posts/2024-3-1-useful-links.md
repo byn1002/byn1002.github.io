@@ -20,6 +20,8 @@ title: Useful Links
 
 - [管院教学云平台](https://oc.ustc.edu.cn)
 
+- [少年班学工教务系统](https://sgyjx.ustc.edu.cn/)
+
 - [Longman](https://www.ldoceonline.com/)  
 
 - [TableGenerater](https://www.tablesgenerator.com/latex_tables)  
