@@ -17,7 +17,10 @@ order: 4
             - C, Python, R, LaTeX, Markdown;  
             \*This website is generated from Ruby, so I know a little about Ruby.
         - #### Software: 
-            - Origin, Mathematica.
+            - Origin, Mathematica, Rstudio
+        - #### platforms:
+            - Windows
+            - Linux   
 +  ## Get In Touch:
     - **QQ**: 1374139623
     - **Wechat**: 15189995102
