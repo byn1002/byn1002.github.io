@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 + ## About Me
++ ![这是图片](assets/images/IDphoto.jpg#pic_right =300x200)
+  
     + ### Basic Information:
         - University of Science and Technology of China(USTC), School of the Gifted Young(SGY), Bachelor of Science in Statistics (expected in Jul.2026).  
 
